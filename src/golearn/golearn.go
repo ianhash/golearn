@@ -1,6 +1,6 @@
 package main
 
-import "golearn/exercise"
+import "github.com/ianhash/golearn/src/golearn/exercise"
 
 func main() {
 	exercise.RunExercise()
